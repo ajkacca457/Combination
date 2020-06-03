@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Combinationlock</title>
+<style media="screen">
+  @import url('https://fonts.googleapis.com/css?family=PT+Serif|Yanone+Kaffeesatz&display=swap');
+  body {
+    font-family:'PT Serif', serif;
+    background-color:rgba(32, 171, 213, 1);
+  }
+
+  #combgame {
+    background-color:rgba(27, 44, 35, 1);
+    margin:0 auto;
+    width:50%;
+    text-align:center;
+  }
+  #gbtn {
+    background-color:rgba(161, 170, 165, 1);
+    border:solid 1px black;
+    padding:1% 2%;
+    margin:1%;
+  }
+
+  h2 {
+    color:white;
+    padding:10px;
+  }
+#rules {
+  margin:1% auto;
+  width:60%;
+  text-align:justify;
+  background-color:red;
+  padding:1%;
+  color:white;
+  border:2px black solid;
+}
+
+</style>
+
+</head>
+<body>
+<div id="combgame">
+<h2>Guess Combo</h2>
+<div id="gamearea"></div><br>
+<button id="gbtn">Start</button>
+</div>
+<div id="rules"><h4>
+  Guess the combination to win the game. Blue means you need to guess higher
+  and red means you have to guess lower.Try to solve it as little guesses as possible.
+</h4></div>
+
+<script type="text/javascript" src="combinationlock.js">
+
+</script>
+</body>
+</html>
