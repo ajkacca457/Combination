@@ -2,7 +2,7 @@
 
 This is a simple javascript project for guessing the right combination.
 
-<img src="picture1.png" alt="projectimg">
+<img src="picture1.PNG" alt="projectimg">
 
 </h1>Additional description about the project and its features.</h1>
 
