@@ -1,8 +1,8 @@
 <h1># A simple Javascript Combination Lock</h1>
 
-This is a simple javascript project for guessing the right combination. 
+This is a simple javascript project for guessing the right combination.
 
-<img src="images/work.png" alt="projectimg">
+<img src="picture1.png" alt="projectimg">
 
 </h1>Additional description about the project and its features.</h1>
 
@@ -19,6 +19,9 @@ Javascript
 
 <h2>Getting Started</h2>
 To get a local copy up and running follow these simple example steps.
+
+Clone the repository and get the files in your local branch. Use it according
+to your convenience.
 
 Prerequisites
 Text editor,Github profile and Git.
